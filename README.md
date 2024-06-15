@@ -1,5 +1,5 @@
 # Star Rating 
-!["Working of the Image Gallery"](StarRating-Jun-15-2024-20-45-16.gif)
+!["Working of the Image Gallery"](StarRating-Jun-15-2024-22-03-00.gif)
 
 
 # React + TypeScript + Vite

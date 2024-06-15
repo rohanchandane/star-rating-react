@@ -6,7 +6,6 @@
     display: inline-block; 
 }
 
-.star:hover, .star.selected {
+.star.selected {
     background-image: url('./assets/selected-star.svg');
 }
-
