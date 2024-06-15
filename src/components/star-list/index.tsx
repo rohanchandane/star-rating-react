@@ -7,7 +7,6 @@ function StarList() {
 
     function handleStarClick(index: number) {
         return () => {
-            console.log(index + 1);
             setSelectedStar(index + 1);
         }
     }
