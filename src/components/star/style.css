@@ -1,0 +1,12 @@
+.star {
+    background-image: url('./assets/star.svg');
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    display: inline-block; 
+}
+
+.star:hover, .star.selected {
+    background-image: url('./assets/selected-star.svg');
+}
+
